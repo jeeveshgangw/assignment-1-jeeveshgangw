@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         ArrayList<Person> ob = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to Rohans Contact List App");
+        System.out.println("Welcome to Jeevesh Gangwar Contact List App");
         int a = 0;
         while (a != 5) {
             System.out.println("Press 1 to add a new contact\n" +
